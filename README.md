@@ -65,7 +65,7 @@ Once the steps are done, you can visit http://localhost:8080 to view your server
 ## :factory: Improvements
 
 - Modified user interface. ✔️
-- Add Restart game button. 🚧
+- Add 'Restart Game' button. 🚧
 
 ## :handshake: Credits
 
